@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sp-react-resto-app/static/css/main.3176c7a5.chunk.css",
+    "main.js": "/sp-react-resto-app/static/js/main.7e4100bc.chunk.js",
+    "main.js.map": "/sp-react-resto-app/static/js/main.7e4100bc.chunk.js.map",
+    "runtime~main.js": "/sp-react-resto-app/static/js/runtime~main.cf2a23e8.js",
+    "runtime~main.js.map": "/sp-react-resto-app/static/js/runtime~main.cf2a23e8.js.map",
+    "static/js/2.c4705e7b.chunk.js": "/sp-react-resto-app/static/js/2.c4705e7b.chunk.js",
+    "static/js/2.c4705e7b.chunk.js.map": "/sp-react-resto-app/static/js/2.c4705e7b.chunk.js.map",
+    "index.html": "/sp-react-resto-app/index.html",
+    "precache-manifest.78b417c7c91c78caf83d3cb68b6e8279.js": "/sp-react-resto-app/precache-manifest.78b417c7c91c78caf83d3cb68b6e8279.js",
+    "service-worker.js": "/sp-react-resto-app/service-worker.js",
+    "static/css/main.3176c7a5.chunk.css.map": "/sp-react-resto-app/static/css/main.3176c7a5.chunk.css.map",
+    "static/media/food-bg.jpg": "/sp-react-resto-app/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/sp-react-resto-app/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
